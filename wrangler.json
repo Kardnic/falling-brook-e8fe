@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "besucherzaehler",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "95aa5134-e67e-4215-b434-9c5d53e9470c",
+      "database_name": "visitor-counter"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
